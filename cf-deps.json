@@ -1,5 +1,6 @@
 {
   "serverless-cf-deps": [
-    "test-service-b-stage"
+    "test-service-b-stage",
+    "test-service-c-stage"
   ]
 }
