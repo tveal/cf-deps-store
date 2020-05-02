@@ -1,0 +1,5 @@
+{
+  "serverless-cf-deps": [
+    "test-service-b-stage"
+  ]
+}
